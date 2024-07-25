@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 10px;
+}
+
+.lists {
+    display: inline-block;
+    text-align: left;
+}
+
+#page0 {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#page1 {
+    background-color: orange;
+}
+
+#page2 {
+    background-color: beige;
+}
+
+#page3 {
+    background-color: yellow;
+}
